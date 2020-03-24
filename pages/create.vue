@@ -1,6 +1,6 @@
 <template>
-  <div>
-    <h1>Events</h1>
+  <div id="app">
+    <h1>Create an Event</h1>
   </div>
 </template>
 
