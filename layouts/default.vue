@@ -12,7 +12,7 @@ export default {
   },
   head () {
     return {
-      titleTemplate: '%s - Realeal World Events',
+      titleTemplate: '%s - Real World Events',
       meta: [
         {
           hid: 'description',
